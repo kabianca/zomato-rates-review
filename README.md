@@ -1,4 +1,6 @@
-# Projeto 6 - Certificação em Análise Dados, Laboratória e IBM 🌟
+# Projeto 6 - Um passeio gastronômico a partir dos dados, Bangalore (Índia)
+
+## Certificação em Análise Dados, Laboratória e IBM 🌟
 
 Esse é o resultado do meu último projeto realizado ao longo do curso de análise de dados fornecido pela Laboratória. O curso, alinhado aos princípios da própria Organização, tem como principal prerrogativa fornecer um ambiente seguro de aprendizagem para mulheres latino-americanas que desejam ingressar ou aprefeiçoar suas habilidades de análises.
 
@@ -6,7 +8,7 @@ Para tal fim escolhi o banco de dados de restaurantes do Zomato, que traz inform
 
 Relatório no [DataStudio](https://datastudio.google.com/reporting/830eb275-2915-4ff8-875e-374cdf4bceec)
 
-## Objetivos de Aprendizagem:
+## Objetivos de Aprendizagem 📝
 * Definir as questões de negócios relevantes;
 * Definir os indicadores e visualizações de dados mais relevantes para sua análise;
 * Entender o fluxo e as etapas de um processo de análise;
