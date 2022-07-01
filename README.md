@@ -6,8 +6,6 @@ Esse é o resultado do meu último projeto realizado ao longo do curso de análi
 
 Para tal fim escolhi o banco de dados de restaurantes do Zomato, que traz informações de aproximadamente 11.400 restaurantes (nomes, endereços, avaliações, tipos de culinária oferecida, tipos de cozinha, entre outras informações) e mais de 50.000 avaliações de usuários. Neste projeto busquei entender a espacialização desses empreendimentos, a partir das variáveis custo, avaliação e opções de culinária regional em Bangalore. O relatório final encontra-se aqui.
 
-Relatório no [DataStudio](https://datastudio.google.com/reporting/830eb275-2915-4ff8-875e-374cdf4bceec)
-
 ## Objetivos de Aprendizagem 📝
 * Definir as questões de negócios relevantes;
 * Definir os indicadores e visualizações de dados mais relevantes para sua análise;
