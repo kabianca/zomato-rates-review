@@ -1,4 +1,4 @@
-# Projeto 6 - Um passeio gastronômico a partir dos dados, Bangalore (Índia)
+# Projeto 6 - Segmentação de clientes no E-commerce
 
 ## Certificação em Análise Dados, Laboratória e IBM 🌟
 
@@ -14,6 +14,3 @@ Para tal fim escolhi o banco de dados de restaurantes do Zomato, que traz inform
 * Limpar e processar dados;
 * Preparar uma apresentação para as partes interessadas;
 * Tomar decisões de negócios com base em dados.
-
-## Fontes
-Banco de dados: [Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
