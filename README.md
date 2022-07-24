@@ -1,4 +1,4 @@
-# Projeto 6 - Segmentação de clientes no E-commerce
+# Análise do Banco de Dados do Zomato - Avaliações, Restaurantes e Opções de Cozinha
 
 ## Certificação em Análise Dados, Laboratória e IBM 🌟
 
