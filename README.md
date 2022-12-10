@@ -8,6 +8,8 @@ Para tal fim escolhi o banco de dados de restaurantes do Zomato, que traz inform
 
 [Relatório DataStudio](https://datastudio.google.com/reporting/830eb275-2915-4ff8-875e-374cdf4bceec)
 
+![Imagem do Relatório](https://github.com/kabianca/zomato-rates-review/blob/main/Screenshot_report-zomato.png?raw=true)
+
 ## Objetivos de Aprendizagem 📝
 * Definir as questões de negócios relevantes;
 * Definir os indicadores e visualizações de dados mais relevantes para sua análise;
